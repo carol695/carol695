@@ -36,7 +36,7 @@ Actualmente:
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-         <span><b>Python 3</b></span><br><br><br>
+         <span><b>Python</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
@@ -47,18 +47,10 @@ Actualmente:
         <span>Java</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Java Script</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
     </tr>
       <td width="25%" align="center">
         <span><b>MySql</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>PostgreSQL</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
         <span>Html</span><br><br><br>
